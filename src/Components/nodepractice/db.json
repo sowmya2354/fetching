@@ -1,0 +1,145 @@
+
+[
+  {
+    "firstName": "Smith",
+    "lastName": "John Doe",
+    "technology": "Java",
+    "FromDate": 2016,
+    "ToDate":2020
+  },
+  {
+    "firstName": "Sowmya Sree",
+    "lastName": "kodamanchili",
+    "technology": "html",
+    "FromDate": 2017,
+    "ToDate":2021
+  },
+  {
+    "firstName": "Vamsi sri priya",
+    "lastName": "priya",
+    "technology": "React",
+    "FromDate": 2014,
+    "ToDate":2018
+  },
+  {
+     "firstName": "Ronaldo",
+    "lastName": "John",
+    "technology": "C",
+    "FromDate": 2019,
+    "ToDate":2023
+  },
+  {
+      "firstName": "Dhoni",
+    "lastName": "Mahendra singh",
+    "technology": "c#",
+    "FromDate": 2015,
+    "ToDate":2019
+
+  },
+  {
+   "firstName": "Kohli",
+    "lastName": "Virat",
+    "technology": "Mongo",
+    "FromDate": 2013,
+    "ToDate":2017
+  },
+  {
+      "firstName": "Smith",
+    "lastName": "John Doe",
+    "technology": "Java",
+    "FromDate": 2016,
+    "ToDate":2020
+  },
+  {
+      "firstName": "Moracco",
+    "lastName": "John Doe",
+    "technology": "Java",
+    "FromDate": 2018,
+    "ToDate":2025
+  },
+  {
+      "firstName": "Aiswarya",
+    "lastName": "Bachaan",
+    "technology": "C++",
+    "FromDate": 2026,
+    "ToDate":2029
+  },
+
+  {
+      "firstName": "Narendra",
+    "lastName": "Modi",
+    "technology": "next js",
+    "FromDate": 2004,
+    "ToDate":2009
+  },
+  {
+      "firstName": "Sachin",
+    "lastName": "Tendulkar",
+    "technology": "Machine Learning",
+    "FromDate": 2019,
+    "ToDate":2026
+  },
+  {
+      "firstName": "Soppy",
+    "lastName": "Rolf",
+    "technology": "Java",
+    "FromDate": 2005,
+    "ToDate":2020
+  },
+  {
+      "firstName": "Sandy",
+    "lastName": "John ",
+    "technology": "Jquery",
+    "FromDate": 2015,
+    "ToDate":2020
+  },
+  {
+      "firstName": "Spark",
+    "lastName": "Juke",
+    "technology": "git",
+    "FromDate": 2014,
+    "ToDate":2019
+  },
+  {
+      "firstName": "Shankar",
+    "lastName": "Mahadeva",
+    "technology": "ai",
+    "FromDate": 2004,
+    "ToDate":2020
+  },
+  {
+      "firstName": "Sadguru",
+    "lastName": "Sai",
+    "technology": "ruby",
+    "FromDate": 2000,
+    "ToDate":2015
+  },
+  {
+      "firstName": "Monster",
+    "lastName": " Doe",
+    "technology": "cobol",
+    "FromDate": 2014,
+    "ToDate":2018
+  },
+  {
+      "firstName": "rahul",
+    "lastName": "dravid",
+    "technology": "golang",
+    "FromDate": 2002,
+    "ToDate":2014
+  },
+  {
+      "firstName": "Manasa",
+    "lastName": "kolf",
+    "technology": "vue",
+    "FromDate": 2025,
+    "ToDate":2029
+  },
+  {
+      "firstName": "Smith1",
+    "lastName": "John Doe",
+    "technology": "Java",
+    "FromDate": 2016,
+    "ToDate":2045
+  }
+]
